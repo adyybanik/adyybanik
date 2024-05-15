@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Object-Oriented Programming**
 
-- 💬 Ask me about **Programming Fundamentals, Computer Systems Fundamentals, Data Structures and Algorithms, Software Eng Fundamentals, Algorithms & Programming Tech, Extended Security Engineering, Extended Web Application Security and Testing**
+- 💬 Ask me about **Programming Fundamentals, Computer Systems Fundamentals, Data Structures and Algorithms, Software Eng Fundamentals, Algorithms & Programming Tech, Security Engineering, Web Application Security and Testing**
 
 - 📫 How to reach me **adyybanik@outlook.com**
 
